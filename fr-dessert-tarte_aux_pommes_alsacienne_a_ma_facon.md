@@ -1,6 +1,8 @@
 Tarte aux pommes Alsacienne à ma façon
 ---
-%insert photo here%
+![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
+![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
+![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
 
 * Sert: 8 personnes
 * Temps de préparation:  45 mins
