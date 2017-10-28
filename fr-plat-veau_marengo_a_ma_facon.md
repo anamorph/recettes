@@ -5,11 +5,11 @@ Veau Marengo à ma façon
 * Sert: 6 personnes
 * Temps de préparation:  20 mins
 * Temps de cuisson:  90 mins
-* Temps Total:  1 hrs 40 mins
+* Temps Total:  1 hrs 50 mins
 
 Ingredients:
 ---
-* 1,2 kg d'épaule de veau
+* 1,2 kg d'épaule de veau preparée comme pour une blanquette de veau
 * 4 echalotes
 * 2 carottes
 * 1 gousse d'ail
