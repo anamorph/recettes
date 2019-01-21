@@ -1,6 +1,6 @@
 Harissa à ma façon
 ---
-![Harissa à ma façon](https://github.com/anamorph/recettes/blob/master/fr-harissa-a-ma-facon-01.jpg?raw=true)
+![Harissa à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
 * Sert: 4 personnes qui aiment quand ça pique
 * Temps de préparation:  15 mins
 * Temps de cuisson:

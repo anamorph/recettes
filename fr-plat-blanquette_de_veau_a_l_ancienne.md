@@ -1,6 +1,6 @@
 Blanquette de veau à l'ancienne
 ---
-![Blanquette de veau à l'ancienne](https://github.com/anamorph/recettes/blob/master/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
+![Blanquette de veau à l'ancienne](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
 
 * Sert: 8 personnes
 * Temps de préparation:  30 mins

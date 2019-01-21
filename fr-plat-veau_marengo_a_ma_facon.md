@@ -1,6 +1,6 @@
 Veau Marengo à ma façon
 ---
-![Veau Marengo à ma façon](https://github.com/anamorph/recettes/blob/master/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
+![Veau Marengo à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
 
 * Sert: 6 personnes
 * Temps de préparation:  20 mins
