@@ -1,5 +1,7 @@
 # Harissa in my way
 
+> Harissa or harissa is a puree of red peppers originating in Tunisia. The peppers are sun-dried and then ground with spices such as cumin, coriander, caraway and dried tomatoes. However, harissa is also prepared with fresh peppers or steamed and mixed peppers. Harissa is usually sold in cans, but can also be found in tubes. There are regional varieties depending on the type of peppers, taste and preparation. Thus, Berber harissa is prepared with dried cayenne pepper, garlic, oil, salt and some spices. 
+
 ![Harissa in my way](https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
 
 ## Details:

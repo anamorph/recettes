@@ -1,5 +1,7 @@
 # Harissa à ma façon
 
+> La harissa ou l'harissa est une purée de piments rouges originaire de Tunisie. Les piments sont séchés au soleil puis broyés avec des épices, soit du cumin, de la coriandre, du carvi et des tomates séchées. Toutefois, la harissa se prépare aussi avec des piments frais ou des piments cuits à la vapeur et mixés. La harissa est habituellement vendue en boîte de conserve, mais on en trouve aussi en tube. Il en existe des variétés régionales selon le type de piments, le goût et la préparation. Ainsi, l'harissa berbère est préparée avec du piment de Cayenne séché, de l'ail, de l'huile, du sel et quelques épices. 
+
 ![Harissa à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
 
 ## Details:
