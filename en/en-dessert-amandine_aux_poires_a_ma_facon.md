@@ -1,15 +1,14 @@
-Amandines with Pears in my own way
-—
- > The Bourdaloue pie, also called the Amandine pie, is a French pastry shop created around 1850 by the pastry chef Fasquelle established rue Bourdaloue from where it takes its name. It consists of large pieces of poached pears placed on a shortbread pastry topped with frangipane or almond cream.
-—
+# Amandines with Pears in my own way
 
+ > The Bourdaloue pie, also called the Amandine pie, is a French pastry shop created around 1850 by the pastry chef Fasquelle established rue Bourdaloue from where it takes its name. It consists of large pieces of poached pears placed on a shortbread pastry topped with frangipane or almond cream.
+
+## Details:
 * Serves: 8 people
 * Preparation time: 15 mins
 * Cooking time: 40-45 mins
 * Total Time: 1 hrs 0 mins
 
-Ingredients:
-—
+## Ingredients:
 * 1 sweet dough (shortbread or almonds shortbread)
 * 1 box of pears with syrup
 * 100g butter
@@ -21,8 +20,7 @@ Ingredients:
 * 1 teaspoon of powdered cinnamon
 * 1 teaspoon of orange blossom water
 
-Instructions:
-—
+## Instructions:
 0. Preheat your oven, 180°C (350°F), rotating heat.
 1. Spread the shortbread dough and place it in a pie pan; stitch with a fork. Set aside.
 2. Prepare the cream by whipping the butter and sugar to emulsify them together.

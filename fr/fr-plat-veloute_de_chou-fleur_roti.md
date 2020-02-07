@@ -1,12 +1,12 @@
-Velouté de Chou-fleur rôti
----
+# Velouté de Chou-fleur rôti
+
+## Details:
 * Sert: 6 personnes
 * Temps de préparation:  15 mins
 * Temps de cuisson:  60 mins
 * Temps Total:  1 hrs 15 mins
 
-Ingredients:
----
+## Ingredients:
 * 1 chou-fleur de bonne taille
 * 1 oignon rouge moyen
 * 1 belle gousse d'ail
@@ -19,8 +19,7 @@ Ingredients:
 * un peu d'aneth fraiche
 * un peu de sumac
 
-Instructions:
----
+## Instructions:
 0. Faites préchauffer votre four, 220°c (425°f), chaleur tournante.
 1. Défaire le chou-fleur en fleurons de taille moyenne, éplucher les carottes et les couper en tronçons d'environ 1.5cm de large. Déposer les légumes sur une plaque à biscuits.
 2. Faire fondre le beurre et le verser sur les légumes et saler. Enfourner pour 25 à 30 minutes sans oublier de retourner les légumes à mi-cuisson. Ils seront joliment dorés au terme de la cuisson.

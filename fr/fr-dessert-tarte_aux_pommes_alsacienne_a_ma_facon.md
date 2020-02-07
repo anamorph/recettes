@@ -1,16 +1,16 @@
-Tarte aux pommes Alsacienne à ma façon
----
+# Tarte aux pommes Alsacienne à ma façon
+
 ![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
 ![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
 ![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
 
+## Details:
 * Sert: 8 personnes
 * Temps de préparation:  45 mins
 * Temps de cuisson:  45-50 mins)
 * Temps Total:  1 hrs 40 mins
 
-Ingredients:
----
+## Ingredients:
 * 1 pate feuilletée
 * 4 à 5 pommes golden
 * 20cl de crème liquide
@@ -22,8 +22,7 @@ Ingredients:
 * 1 cuillère à thé de canelle en poudre
 * 1 cuillère à thé d'eau de fleur d'oranger
 
-Instructions:
----
+## Instructions:
 0. Faites préchauffer votre four, 180°c (350°f), chaleur tournante.
 1. Étaler la pâte feuilletée et la déposer dans un moule à tarte; piquer avec une fourchette et saupoudrer la pate avec les amandes en poudre. Reserver.
 2. Préparer la crème en fouettant les oeufs et le sucre (cristal et vergoise), les oeufs doivent blanchir légèrement.

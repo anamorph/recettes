@@ -1,13 +1,12 @@
-Cherry Clafoutis
-—
+# Cherry Clafoutis
 
+## Details:
 * Serves: 8 people
 * Preparation time: 20 mins
 * Cooking time: 45 mins
 * Total Time: 1 hrs 05 mins
 
-Ingredients:
-—
+## Ingredients:
 * 750g of ripe cherries
 * 125g of sugar
 * 25g butter
@@ -19,8 +18,7 @@ Ingredients:
 * 1 sachet of vanilla sugar
 * 1/2 sachet of baking powder
 
-Instructions:
-—
+## Instructions:
 0. Preheat your oven, 180°C (350°F), rotating heat.
 1. Wash and slice the cherries. Book.
 2. In a salad bowl, whisk the eggs, sugar and salt together for 5 minutes.

@@ -22,8 +22,13 @@ if len(sys.argv) >= 3:
         print('from: ' + outputTranslation.get('SourceLanguageCode'))
         print('to: ' + outputTranslation.get('TargetLanguageCode'))
 
+        # Fixing inconsistencies with markdown
+        outputTranslationData = outputTranslation.get('TranslatedText')
+        outputTranslationData = outputTranslationData.replace('! [', '![')
+        outputTranslationData = outputTranslationData.replace('] (', '](')
+
         file = open(outputFile,'w')
-        file.write(outputTranslation.get('TranslatedText'))
+        file.write(outputTranslationData)
         file.close()
 else:
         print('usage : ' + sys.argv[0] + 'inputfile output_language_iso')

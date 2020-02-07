@@ -1,13 +1,14 @@
-Harissa à ma façon
----
+# Harissa à ma façon
+
 ![Harissa à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
+
+## Details:
 * Sert: 4 personnes qui aiment quand ça pique
 * Temps de préparation:  15 mins
 * Temps de cuisson:
 * Temps Total:  0 hrs 15 mins
 
-Ingredients:
----
+## Ingredients:
 * 600g de piments rouge
 * 2 gousses d'ail
 * 1 pincée de sel
@@ -19,8 +20,7 @@ Ingredients:
 * huile d'olive
 * 1 paire de gants de cuisine
 
-Instructions:
----
+## Instructions:
 0. Laver les piments sous l'eau tiède puis bien les secher.
 1. Mettre les gants.
 2. Épépinner les piments puis les couper dans la longueur, puis en deux.

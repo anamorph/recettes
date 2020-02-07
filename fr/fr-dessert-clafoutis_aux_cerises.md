@@ -1,13 +1,12 @@
-Clafoutis aux cerises
----
+# Clafoutis aux cerises
 
+## Details:
 * Sert: 8 personnes
 * Temps de préparation:  20 mins
 * Temps de cuisson:  45 mins
 * Temps Total:  1 hrs 05 mins
 
-Ingredients:
----
+## Ingredients:
 * 750g de cerises bien mûres
 * 125g de sucre
 * 25g de beurre
@@ -19,8 +18,7 @@ Ingredients:
 * 1 sachet de sucre vanillé
 * 1/2 sachet de levure chimique
 
-Instructions:
----
+## Instructions:
 0. Faites préchauffer votre four, 180°c (350°f), chaleur tournante.
 1. Laver et équeuter les cerises. Reserver.
 2. Dans un saladier, fouetter les oeufs, le sucre et le sel ensemble pendant 5 minutes.

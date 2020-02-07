@@ -1,16 +1,16 @@
-ألزاسي فطيرة التفاح في طريقي
-—
-! [فطيرة التفاح الألزاسي في طريقي] (https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
-! [فطيرة التفاح الألزاسي في طريقي] (https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
-! [فطيرة التفاح الألزاسي في طريقي] (https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
+# فطيرة تفاح ألزاسي في طريقي #
 
+![فطيرة التفاح الألزاسي في طريقي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
+![فطيرة التفاح الألزاسي في طريقي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
+![فطيرة التفاح الألزاسي في طريقي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
+
+## التفاصيل:
 * يقدم: 8 أشخاص
 * وقت التحضير: 45 دقيقة
 * وقت الطهي: 45-50 دقيقة)
 * الوقت الإجمالي: 1 ساعة 40 دقيقة
 
-المكونات:
-—
+## المكونات:
 * 1 المعجنات نفخة
 * 4 إلى 5 التفاح الذهبي
 * 20cl من كريم السائل
@@ -22,8 +22,7 @@
 * 1 ملعقة صغيرة من مسحوق القرفة
 * 1 ملعقة صغيرة من ماء زهر البرتقال
 
-تعليمات:
-—
+## التعليمات:
 0. سخني الفرن، 180 درجة مئوية (350 درجة فهرنهايت)، حرارة دوارة.
 1 - انتشر المعجنات نفخة ووضعها في مقلاة فطيرة. غرزة مع شوكة ويرش العجين مع مسحوق اللوز. كتاب.
 2 - إعداد كريم عن طريق الجلد البيض والسكر (الكريستال والخشن)، والبيض تحتاج إلى تبييض قليلا.

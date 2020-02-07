@@ -1,12 +1,12 @@
-Roasted cauliflower velvety
-—
+# Roasted cauliflower velvety
+
+## Details:
 * Serves: 6 people
 * Preparation time: 15 mins
 * Cooking time: 60 mins
 * Total Time: 1 hrs 15 mins
 
-Ingredients:
-—
+## Ingredients:
 * 1 x good size cauliflower
 * 1 medium red onion
 * 1 beautiful clove of garlic
@@ -19,8 +19,7 @@ Ingredients:
 * a little fresh dill
 * a little sumac
 
-Instructions:
-—
+## Instructions:
 0. Preheat your oven, 220°C (425°f), rotating heat.
 1. Untie the cauliflower into medium-sized florets, peel the carrots and cut into sections about 1.5cm wide. Place the vegetables on a cookie sheet.
 2. Melt the butter and pour it over the vegetables and salt. Bake for 25 to 30 minutes without forgetting to turn the vegetables halfway. They will be nicely browned at the end of cooking.

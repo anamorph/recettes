@@ -1,13 +1,14 @@
-Harissa my way
-—
-! [Harissa in my way] (https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
+# Harissa in my way
+
+![Harissa in my way](https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
+
+## Details:
 * Serves: 4 people who like it when it stings
 * Preparation time: 15 mins
 * Cooking time:
 * Total Time: 0 hrs 15 mins
 
-Ingredients:
-—
+## Ingredients:
 * 600g of red peppers
 * 2 cloves of garlic
 * 1 pinch of salt
@@ -19,8 +20,7 @@ Ingredients:
 * olive oil
 * 1 pair of kitchen gloves
 
-Instructions:
-—
+## Instructions:
 0. Wash the peppers under warm water and then dry well.
 1. Put on the gloves.
 2. Saw the peppers then cut lengthwise, then in half.

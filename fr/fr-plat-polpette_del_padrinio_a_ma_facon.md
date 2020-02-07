@@ -1,12 +1,12 @@
-polpette del padrino à ma façon
----
+# polpette del padrino à ma façon
+
+## Details:
 * Sert: 4 personnes
 * Temps de préparation:  15 mins
 * Temps de cuisson:  60 mins
 * Temps Total:  1 hrs 15 mins
 
-Ingredients:
----
+## Ingredients:
 * 200g de bœuf haché
 * 200g de veau haché
 * 100g de mie de pain de campagne
@@ -21,8 +21,7 @@ Ingredients:
 * 40g de basilic frais
 * huile d'olive
 
-Instructions:
----
+## Instructions:
 0. Dans un bol, faire macérer le pain de mie dans le lait.
 1. Mélanger le bœuf haché et le veau haché. Ajouter les amandes, le persil, le pecorino, l’ail mélangé à une cuillère à soupe d’huile et les deux jaunes d’œuf. Verser le pain de mie essoré à la préparation. Malaxer pour obtenir un appareil à boulettes bien uniforme. Mettre au frais.
 2. Préparer la sauce tomate. Dans une casserole, faire revenir l’oignon dans de l’huile. Ajouter le basilic coupé et les tomates coupées en dés. Laisser mijoter pendant quelques minutes.

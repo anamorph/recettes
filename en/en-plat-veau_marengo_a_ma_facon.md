@@ -1,14 +1,14 @@
-Marengo calf in my way
-—
-! [Calf Marengo in my way] (https://github.com/anamorph/recettes/blob/master/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
+# Marengo calf in my way
 
+![Calf Marengo in my way](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
+
+## Details:
 * Serves: 6 people
 * Preparation time: 20 mins
 * Cooking time: 90 mins
 * Total Time: 1 hrs 50 mins
 
-Ingredients:
-—
+## Ingredients:
 * 1.2 kg of calf shoulder prepared as for a calf blanquette
 * 4 shallots
 * 2 carrots
@@ -22,8 +22,7 @@ Ingredients:
 * Pepper
 * water
 
-Instructions:
-—
+## Instructions:
 1. Peel the shallots and chop them.
 1. Peel the clove of garlic, ungerminate it and chop it.
 1. Peel the carrots and cut them into a bevel about 1cm thick.

@@ -1,16 +1,16 @@
-Alsatian apple pie in my way
-—
-! [Alsatian apple pie in my way] (https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
-! [Alsatian apple pie in my way] (https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
-! [Alsatian apple pie in my way] (https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
+# Alsatian apple pie in my way
 
+![Alsatian apple pie in my way](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
+![Alsatian apple pie in my way](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
+![Alsatian apple pie in my way](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
+
+## Details:
 * Serves: 8 people
 * Preparation time: 45 mins
 * Cooking time: 45-50 mins)
 * Total Time: 1 hrs 40 mins
 
-Ingredients:
-—
+## Ingredients:
 * 1 puff pastry
 * 4 to 5 apples golden
 * 20cl of liquid cream
@@ -22,8 +22,7 @@ Ingredients:
 * 1 teaspoon of powdered cinnamon
 * 1 teaspoon of orange blossom water
 
-Instructions:
-—
+## Instructions:
 0. Preheat your oven, 180°C (350°F), rotating heat.
 1. Spread the puff pastry and place it in a pie pan; stitch with a fork and sprinkle the dough with the powdered almonds. Book.
 2. Prepare the cream by whipping eggs and sugar (crystal and bristle), the eggs need to whiten slightly.

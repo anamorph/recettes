@@ -1,14 +1,14 @@
-Veau Marengo à ma façon
----
+# Veau Marengo à ma façon
+
 ![Veau Marengo à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
 
+## Details:
 * Sert: 6 personnes
 * Temps de préparation:  20 mins
 * Temps de cuisson:  90 mins
 * Temps Total:  1 hrs 50 mins
 
-Ingredients:
----
+## Ingredients:
 * 1,2 kg d'épaule de veau preparée comme pour une blanquette de veau
 * 4 echalotes
 * 2 carottes
@@ -22,8 +22,7 @@ Ingredients:
 * Poivre
 * eau
 
-Instructions:
----
+## Instructions:
 1. Épluchez les échalotes et émincez-les.
 1. Épluchez la gousse d’ail, dégermez-la et hachez-la.
 1. Épluchez les carottes et coupez-les en biseau d'à peu près 1cm d'épaisseur.

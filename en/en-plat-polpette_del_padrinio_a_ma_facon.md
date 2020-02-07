@@ -1,12 +1,12 @@
-polpette del padrino in my way
-—
+# polpette del padrino in my way
+
+## Details:
 * Serves: 4 people
 * Preparation time: 15 mins
 * Cooking time: 60 mins
 * Total Time: 1 hrs 15 mins
 
-Ingredients:
-—
+## Ingredients:
 * 200g of ground beef
 * 200g of chopped veal
 * 100g of country bread crumb
@@ -21,8 +21,7 @@ Ingredients:
 * 40g of fresh basil
 * olive oil
 
-Instructions:
-—
+## Instructions:
 0. In a bowl, macerate the crumb bread in the milk.
 1. Mix the ground beef and the ground veal. Add almonds, parsley, pecorino, garlic mixed with a tablespoon of oil and two egg yolks. Pour the towel-dried crumb bread to the preparation. Knead to obtain a well-uniform dumplet apparatus. Put in the cool.
 2. Prepare the tomato sauce. In a saucepan, fry the onion in oil. Add the chopped basil and diced tomatoes. Simmer for a few minutes.

@@ -1,12 +1,12 @@
-Blueberry pie with big mother
-—
+# Blueberry pie way big mother
+
+## Details:
 * Serves: 8 people
 * Preparation time: 10 mins
 * Cooking time: 35 mins
 * Total Time: 0 hrs 45 mins
 
-Ingredients:
-—
+## Ingredients:
 * 1 shortbread paste
 * 600g of fresh blueberries
 * 100ml of crème fraîche
@@ -15,8 +15,7 @@ Ingredients:
 * 1 teaspoon of vanilla powder
 * 2 tablespoon of almond powder
 
-Instructions:
-—
+## Instructions:
 0. Preheat your oven, 200°C (350°F), rotating heat.
 1. Spread the shortbread dough and place it in a pie pan; stitch with a fork and sprinkle the dough with the powdered almonds.
 2. Bake for 20 minutes.
