@@ -18,5 +18,5 @@ echo "### Preparing recipes commit"
 git add .
 read -p "Please enter a commit message" commitMessage
 git commit -m "$commitMessage"
-e ho "### Shipping recipes!"
+echo "### Shipping recipes!"
 git push
