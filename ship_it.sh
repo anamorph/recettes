@@ -10,8 +10,8 @@
 echo "### Translating recipes"
 for i in $(ls fr/*.md)
     do
-        python translate_recipes.py $i en
-        python translate_recipes.py $i ar
+        /usr/local/bin/python3.9 translate_recipes.py $i en
+        /usr/local/bin/python3.9 translate_recipes.py $i ar
     done
 
 echo "### Preparing recipes commit"
