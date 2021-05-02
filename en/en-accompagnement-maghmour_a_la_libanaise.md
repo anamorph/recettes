@@ -14,7 +14,7 @@
 ## Ingredients:
 * 2 beautiful eggplant ~ 700g total
 * 1 yellow onion
-* 200g chickpeas (preferably in a box)
+* 120g chickpeas (preferably in a box)
 * 1 box of peeled tomatoes (400g) well crushed
 * 5 cloves of garlic
 * 1 tablespoon tomato concentrate

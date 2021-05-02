@@ -14,7 +14,7 @@
 ## Ingredients:
 * 2 belles aubergines ~ 700g total
 * 1 oignon jaune
-* 200g de pois chiches (de préférence en boite)
+* 120g de pois chiches (de préférence en boite)
 * 1 boite de tomates pelée (400g) bien ecrasées
 * 5 gousses d'ail
 * 1 cuillère à soupe de concentré de tomates
