@@ -1,40 +1,40 @@
-# Old-fashioned veal blanquette
+# Old fashioned veal blanquette
 
-![Old-fashioned veal blanquette](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
+![Old fashioned veal blanquette](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
 
 ## Details:
 * Serves: 8 people
-* Preparation time: 30 mins
+* Prep time: 30 mins
 * Cooking time: 90 mins
 * Total Time: 2 hrs 00 mins
 
 ## Ingredients:
-### Preparation of veal
-* 600 g veal shoulder
+### Preparing the Calf
+* 600 g calf shoulder
 * 1 onion
 * 2 carrots
-* 1 white leek
+* 1 leek white
 * 1 small celery branch
-* 1 clove of garlic
+* 1 clove garlic
 * 2 cloves
-* 1 bunch garni
+* 1 bouquet garnished
 * Salt
 * Pepper
-* 2 l of veal broth
+* 2 l veal broth
 
-### Preparation of bells onions
-* 16 small bells onions
+### Preparing the Onions
+* 16 small baby onions
 * 20 g butter
-* 1 pinch of salt
-* 1 pinch of sugar
+* 1 pinch salt
+* 1 pinch sugar
 
-### Preparation of Paris mushrooms
-* 150 g of Paris mushrooms
+### Preparing Paris Mushrooms
+* 150 g Paris Mushrooms
 * 1/2 lemon
 * 10 g butter
-* 1 pinch of salt
+* 1 pinch salt
 
-### Preparation of the sauce
+### Preparing the sauce
 * 40 g flour
 * 40 g butter
 * Salt
@@ -42,31 +42,31 @@
 * 50 cl of broth
 
 ### Finishing
-* 100 g thick cream
+* 100 g heavy cream
 * 1 egg yolk
 * 1 tablespoon lemon juice
 
 ## Instructions:
-### Preparation of veal
- 1. Cut the meat into cubes and put them in a pot. Cover with cold water and bring to a boil. Hold the boil for 5 minutes, then drain the meat in a colander. Rinse with cold water.
- 1. Peel the onion and prick it with the cloves. Cut the carrots into rings. Slit the leek lengthwise and wash under cold water to remove any trace of soil.
- 1. Return the meat back to the pot. Add onion, carrots, leek, celery, garlic and garnished bouquet. Pour the broth and salt and pepper.
- 1. Bring to a boil and skim if necessary. Cover and simmer 1h30 on low heat.
+### Calf Preparation
+ 1. Cut the meat into cubes and put them in a pot. Cover with cold water and bring to a boil. Keep the boil for 5 minutes, then drain the meat in a colander. Rinse with cold water.
+ 1. Peel the onion and prick it with the cloves. Cut carrots into rings. Slitting the leek lengthwise and wash under cold water to remove any traces of soil.
+ 1. Put the meat back in the pot. Add the onion, carrots, leek, celery, garlic and bunch garnished. Pour in the broth and season with salt and pepper.
+ 1. Bring to a boil and skim if necessary. Cover and simmer for 1h30 on low heat.
 
-### Preparation of bells onions
- 1. Peel and wash the bells onions. Put them in a frying pan and cover half with cold water. Add butter as well as salt and sugar.
- 1. Cut a disc of parchment paper of the same diameter as the pan and drill it in the middle. Cover the onions with this foil. Cook on low heat until liquid evaporation.
+### Preparing the Onions
+ 1. Peel and wash the onions. Put them in a skillet and cover half with cold water. Add butter as well as salt and sugar.
+ 1. Cut a parchment paper disc of the same diameter as the pan and pierce it in the middle. Cover the onions with this sheet. Cook over low heat until liquid evaporates.
 
-### Preparation of Paris mushrooms
- 1. Clean the mushrooms of Paris with a brush and chop them. Put them in a small saucepan of cold water and add butter, lemon juice and a pinch of salt to it.
+### Preparing Paris Mushrooms
+ 1. Clean the mushrooms with a brush and slice them. Put them in a small pot of cold water and add the butter, lemon juice and a pinch of salt.
  1. Cook at simmering for 15 minutes. Drain with a skimmer and set aside.
 
-### Preparation of the sauce
- 1. In another saucepan, melt the butter and pour the flour into it to make a redhead. Mix and cook for 2 minutes without ceasing to whisk.
- 1. Take 50 cl of the cooking broth from the blanquette and pour it gradually, always stirring with a whisk. Cook for a few minutes, until a thick sauce is obtained. Salt and pepper.
+### Preparing the sauce
+ 1. In another saucepan, melt the butter and pour in the flour to make a roux. Mix and cook for 2 minutes without ceasing to stir with a whisk.
+ 1. Take 50 cl of the cooking stock from the blanquette and pour it gradually, always stirring with a whisk. Cook for a few minutes, until a thick sauce is obtained. Season with salt and pepper.
 
 ### Finishing
 
- 1. Drain the meat with a skimmer and put it in a casserole. Pour sauce, bells onions and mushrooms. Heat a few minutes over low heat, mixing.
- 1. Whisk the thick cream and egg yolk in a bowl. Remove the casserole from the heat and pour this bond into it. Mix and warm over low heat.
- 1. Add the lemon juice and rectify the seasoning if necessary. Serve hot.
+ 1. Drain the meat with a skimmer and put it in a casserole dish. Pour in the sauce, the onions and the mushrooms. Heat for a few minutes on low heat while stirring.
+ 1. Whisk together the heavy cream and egg yolk in a bowl. Remove the casserole from the heat and pour this bond into it. Mix and heat over low heat.
+ 1. Add the lemon juice and adjust the seasoning if necessary. Serve hot.
