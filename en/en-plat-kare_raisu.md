@@ -13,8 +13,8 @@
 ## Ingredients:
 * 500g of beef chuck (I use low-fat meat)
 * 1 yellow onion cut into small dice
-* 4 cloves garlic, chopped
-* 1 piece of fresh ginger (~ 5cm x 2cm x 2cm) rapped
+* 4 cloves garlic, shredded
+* 1 piece of fresh ginger (~ 5cm x 2cm x 2cm) grated
 * 3 tablespoons madras curry
 * 450ml water
 * 1 beef broth

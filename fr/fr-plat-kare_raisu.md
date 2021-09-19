@@ -13,8 +13,8 @@
 ## Ingredients:
 * 500g de paleron de boeuf (J'utilise une viande peu grasse)
 * 1 oignon jaune coupé en petits dés
-* 4 gousses d'ail rappées
-* 1 morceau de gingembre frais (~ 5cm x 2cm x 2cm) rappé
+* 4 gousses d'ail râpées
+* 1 morceau de gingembre frais (~ 5cm x 2cm x 2cm) râpé
 * 3 cuillères à soupe de curry de madras
 * 450ml d'eau
 * 1 bouillon de boeuf
