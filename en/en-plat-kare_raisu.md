@@ -17,7 +17,7 @@
 * 1 piece of fresh ginger (~ 5cm x 2cm x 2cm) grated
 * 3 tablespoons madras curry
 * 450ml water
-* 1 beef broth
+* 1 beef stock cube
 * 1 medium golden apple puree (add 10cl of water to make a nice raw puree)
 * 1 large tablespoon tomato paste
 * 4 tablespoons soy sauce

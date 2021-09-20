@@ -17,7 +17,7 @@
 * 1 morceau de gingembre frais (~ 5cm x 2cm x 2cm) râpé
 * 3 cuillères à soupe de curry de madras
 * 450ml d'eau
-* 1 bouillon de boeuf
+* 1 cube de bouillon de boeuf
 * 1 pomme golden moyenne en purée (ajouter 10cl d'eau pour faire une belle purée crue)
 * 1 grosse cuillère à soupe de concentré de tomate
 * 4 cuillères à soupe de sauce soja
