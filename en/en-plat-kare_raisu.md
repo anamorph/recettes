@@ -27,6 +27,7 @@
 * Salt
 * neutral vegetable oil for cooking (I use rapeseed)
 * jasmine rice to serve
+* fukujinzuke pickles (optional)
 
 
 ## Instructions:

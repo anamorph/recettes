@@ -27,6 +27,7 @@
 * Sel
 * huile végétale neutre de cuisson (j'utilise du colza)
 * riz jasmin pour servir
+* pickles fukujinzuke (optionel)
 
 
 ## Instructions:
