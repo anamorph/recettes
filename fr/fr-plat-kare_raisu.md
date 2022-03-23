@@ -15,7 +15,7 @@
 * 1 oignon jaune coupé en petits dés
 * 4 gousses d'ail râpées
 * 1 morceau de gingembre frais (~ 5cm x 2cm x 2cm) râpé
-* 3 cuillères à soupe de curry de madras
+* 3 cuillères à soupe de mélange d'épices curry Japonais
 * 450ml d'eau
 * 1 cube de bouillon de boeuf
 * 1 pomme golden moyenne en purée (ajouter 10cl d'eau pour faire une belle purée crue)
