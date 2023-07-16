@@ -1,4 +1,4 @@
-# Banana Bread 
+# Yogurt cake 
 
 > The yogurt cake is the cake of our childhood par excellence. It is very simple to prepare and to accommodate because the pot is used as a unit of measurement. For my part, I prepare it in a Ciambella mold with lemon zest and a little bit of cane sugar.
 
@@ -10,20 +10,19 @@
 
 ## Ingredients: 
 * 1 pot of plain yogurt 
-* 1.5 jars of granulated sugar
-* 0.5 can of cane sugar 
+* 1 pot and a half of granulated sugar
+* 1 half pot of cane sugar 
 * 1 zested lemon
 * 3 pots of flour 
 * 3 eggs 
-* 0.5 bag of baking powder 
+* 1 half bag of baking powder 
 * 1 bag of vanilla sugar 
 * 1 pinch of salt 
-* 0.5 jars of good olive oil 
-* 50g walnuts (optional - watch out for allergies) 
+* 1 half a pot of good olive oil 
 
 ## Instructions:
 1. Preheat your oven to 180°C (350°F) with rotating heat and lightly oil the pan with a drizzle of olive oil. 
-1. In a bowl, pour the yogurt and add in order, mixing well with a whisk: the sugars, lemon zest, eggs one by one, flour, yeast and oil.
+1. In a bowl, pour in the yogurt and add in order, mixing well with a whisk: sugars, lemon zest, eggs one by one, flour, yeast, salt and oil.
 1. Put the mixture into the oiled pan and cook for 35 minutes. 
 1. Remove from the oven and let it cool. 
 1. Serve warm!  
