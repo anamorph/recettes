@@ -2,6 +2,8 @@
 
 > Le gâteau au yaourt, c'est le gâteau de notre enfance par excellence. Il est rûdement simple a préparer et a accomoder car on utilise le pot comme unité de mesure. Pour ma part, je le prépare dans un moule a Ciambella avec du zeste de citron et un peu de sucre de canne.
 
+![Gateau au Yaourt](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-gateau-au-yaourt-01.jpg?raw=true)  
+
 ## Details:
 * Sert: 6 personnes  
 * Temps de préparation:  10 mins  

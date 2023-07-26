@@ -1,6 +1,8 @@
-# Yogurt cake 
+# Yoghurt cake 
 
 > The yogurt cake is the cake of our childhood par excellence. It is very simple to prepare and to accommodate because the pot is used as a unit of measurement. For my part, I prepare it in a Ciambella mold with lemon zest and a little bit of cane sugar.
+
+![Yoghurt Cake](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-gateau-au-yaourt-01.jpg?raw=true) 
 
 ## Details:
 * Serves: 6 people 
@@ -24,5 +26,5 @@
 1. Preheat your oven to 180°C (350°F) with rotating heat and lightly oil the pan with a drizzle of olive oil. 
 1. In a bowl, pour in the yogurt and add in order, mixing well with a whisk: sugars, lemon zest, eggs one by one, flour, yeast, salt and oil.
 1. Put the mixture into the oiled pan and cook for 35 minutes. 
-1. Remove from the oven and let it cool. 
+1. Remove from the oven and let cool. 
 1. Serve warm!  
