@@ -18,6 +18,7 @@
 # ----------------------------------------------------------------------------
 export dir=$(PWD)
 export recipe_checksum_file="$dir/ship_it-checksums"
+export translation_languages=(en ar es)
 
 if [ ! -f "$recipe_checksum_file" ]; then
 		touch "$recipe_checksum_file"
@@ -31,8 +32,10 @@ for i in $(ls fr/*.md)
 			echo "-> [found!] original recipe hasn't changed. moving on."
 		else
 			echo "-> [not found!] original recipe is new or has changed."
-			/opt/homebrew/bin/python3 translate_recipes.py $i en
-			/opt/homebrew/bin/python3 translate_recipes.py $i ar
+			for lang in "${translation_languages[@]}"
+			do
+				/opt/homebrew/bin/python3 translate_recipes.py $i $lang
+			done
 			echo "adding checksum to file"
 			echo $recipe_checksum >> $recipe_checksum_file
 		fi
