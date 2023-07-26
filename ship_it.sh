@@ -7,6 +7,9 @@
 #					v1.1	nicolas@	Adding checksum to remove the need to
 #										systematically translate everything 
 #										all over again.
+#					v1.2	nicolas@	Adding translation capabilities to 
+#										multiples languages, but keeping it
+#										relatively "easy" with spanish.
 #
 # purpose:
 # ----------------------------------------------------------------------------
