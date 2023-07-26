@@ -3,7 +3,7 @@
 > Marengo est tout d'abord un village de l'Italie du Nord (Piémont). Napoléon Bonaparte y remporta une victoire en 1800.
 > La bataille a fait rage toute la journée le 14 juin 1800 à Marengo, la victoire de Bonaparte et ses généraux réveille l'estomac du premier Consul. Le cuisinier Dunan est embarrassé car l'avance des troupes françaises l'a isolé des fourgons de ravitaillement. Il décide donc d'utiliser tous les produits qui lui sont à disposition, il arrive à rassembler du poulet, des tomates, de l'ail, du persil vert. il fait sauter le poulet avec de l'huile d'olive et ajoute progressivement les aliments qu'il a trouvé. 
 
-![Veau Marengo à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
+![Veau Marengo à ma façon](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
 
 ## Details:
 * Sert: 6 personnes

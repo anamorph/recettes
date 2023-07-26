@@ -2,8 +2,8 @@
 
 > Le maghmour est un plat qui remonte à la fin du 19e siècle; parfois appelée Moussaka Libanaise. Cependant, il est assez différent de la moussaka grecque; une cocotte composée de couches d'aubergines, de béchamel et de viande. Moussaka est un mot arabe qui signifie glacé. Maghmour est servi à température ambiante ou frais.
 
-![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/master/photos/fr-accompagnement-maghmour_a_la_libanaise-01.jpg?raw=true)  
-![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/master/photos/fr-accompagnement-maghmour_a_la_libanaise-02.jpg?raw=true)  
+![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/main/photos/fr-accompagnement-maghmour_a_la_libanaise-01.jpg?raw=true)  
+![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/main/photos/fr-accompagnement-maghmour_a_la_libanaise-02.jpg?raw=true)  
 
 ## Details:
 * Sert: 8 personnes 

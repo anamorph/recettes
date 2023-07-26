@@ -2,7 +2,7 @@
 
 > كعكة الزبادي هي كعكة طفولتنا بامتياز. من السهل جدًا تحضيرها واستيعابها لأن القدر يستخدم كوحدة قياس. من جهتي، أقوم بإعداده في قالب Ciambella مع نكهة الليمون والقليل من سكر القصب.
 
-![كعكة الزبادي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-gateau-au-yaourt-01.jpg?raw=true) 
+![كعكة الزبادي](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-gateau-au-yaourt-01.jpg?raw=true) 
 
 ## التفاصيل:
 * يخدم: 6 أشخاص 

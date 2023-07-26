@@ -3,7 +3,7 @@
 > Osso buco (literally translated into French as “bone troué”) is a traditional Milanese dish, very fragrant, consisting of a stew of veal shanks (or rolls), braised in dry white wine and garnished with vegetables (carrots, tomatoes and leeks) that is generally served with Milanese risotto. The marrow is cooked and served with its bone.
 > This traditional variant called gremolata without tomatoes is decorated with minced garlic, lemon zest (when it says “à la gremolata”) and finely chopped fresh herbs. 
 
-![Osso Buco with gremolata](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-osso_buco_a_la_gremolata-01.jpg?raw=true)
+![Osso Buco with gremolata](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-osso_buco_a_la_gremolata-01.jpg?raw=true)
 
 ## Details:
 * Serves: 4 people

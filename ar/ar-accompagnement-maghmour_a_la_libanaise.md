@@ -2,8 +2,8 @@
 
 > يعود تاريخ طبق المغمور إلى نهاية القرن التاسع عشر، ويُطلق عليه أحيانًا اسم المسقعة اللبنانية. ومع ذلك، فهو مختلف تمامًا عن المسقعة اليونانية؛ طبق خزفي مصنوع من طبقات من الباذنجان والبشاميل واللحوم. Moussaka هي كلمة عربية تعني المجمدة. يتم تقديم Maghmour في درجة حرارة الغرفة أو مبردًا.
 
-![مغمور إلى اللبنانيين](https://github.com/anamorph/recettes/blob/master/photos/fr-accompagnement-maghmour_a_la_libanaise-01.jpg?raw=true) 
-![مغمور إلى اللبنانيين](https://github.com/anamorph/recettes/blob/master/photos/fr-accompagnement-maghmour_a_la_libanaise-02.jpg?raw=true) 
+![مغمور إلى اللبنانيين](https://github.com/anamorph/recettes/blob/main/photos/fr-accompagnement-maghmour_a_la_libanaise-01.jpg?raw=true) 
+![مغمور إلى اللبنانيين](https://github.com/anamorph/recettes/blob/main/photos/fr-accompagnement-maghmour_a_la_libanaise-02.jpg?raw=true) 
 
 ## التفاصيل:
 * يخدم: 8 أشخاص 

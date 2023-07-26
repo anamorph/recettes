@@ -2,8 +2,8 @@
 
 > Maghmour is a dish that dates back to the end of the 19th century; sometimes called Lebanese Moussaka. However, it is quite different from Greek Moussaka; a casserole made from layers of eggplant, béchamel, and meat. Moussaka is an Arabic word that means frozen. Maghmour is served at room temperature or chilled.
 
-![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/master/photos/fr-accompagnement-maghmour_a_la_libanaise-01.jpg?raw=true) 
-![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/master/photos/fr-accompagnement-maghmour_a_la_libanaise-02.jpg?raw=true) 
+![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/main/photos/fr-accompagnement-maghmour_a_la_libanaise-01.jpg?raw=true) 
+![Maghmour à la Libanaise](https://github.com/anamorph/recettes/blob/main/photos/fr-accompagnement-maghmour_a_la_libanaise-02.jpg?raw=true) 
 
 ## Details:
 * Serves: 8 people 

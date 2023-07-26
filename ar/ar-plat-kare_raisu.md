@@ -1,8 +1,8 @@
 # كاري رايسو
 
-![كاري رايسو](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-kare_raisu-01.jpg?raw=true) 
+![كاري رايسو](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-kare_raisu-01.jpg?raw=true) 
 
-![كاري رايسو](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-kare_raisu-02.jpg?raw=true)
+![كاري رايسو](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-kare_raisu-02.jpg?raw=true)
 
 ## التفاصيل:
 * يخدم: 4 أشخاص

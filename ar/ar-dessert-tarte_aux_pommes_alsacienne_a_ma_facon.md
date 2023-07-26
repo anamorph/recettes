@@ -1,8 +1,8 @@
 # فطيرة التفاح الألزاسي على طريقتي
 
-![فطيرة التفاح الألزاسية بطريقتي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
-![فطيرة التفاح الألزاسية بطريقتي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
-![فطيرة التفاح الألزاسية بطريقتي](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
+![فطيرة التفاح الألزاسية بطريقتي](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
+![فطيرة التفاح الألزاسية بطريقتي](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
+![فطيرة التفاح الألزاسية بطريقتي](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
 
 ## التفاصيل:
 * يخدم: 8 أشخاص
@@ -29,5 +29,5 @@
 3. أضيفي الكريمة السائلة وسكر الفانيليا واخلطيهم جيدًا. أضيفي القرفة وماء زهر البرتقال واخلطيهم مرة أخرى. كتاب.
 4. قشري التفاح وأزيلي البذور وقطعيها إلى شرائح رقيقة نسبيًا، حوالي 2-3 مم حتى تصبح طرية.
 5. تُبطن العجينة بالتفاح وتُغطى بالكريمة.
-6. اخبزيها لمدة 45-50 دقيقة أو حتى يصبح لونها بنيا ذهبيا.
+6. اخبزيها لمدة 45-50 دقيقة أو حتى تحصل على لون ذهبي جميل.
 7. أخرجيها من الفرن واتركي التورتة تبرد. قدميها سادة أو مع ملعقة من آيس كريم الفانيليا.

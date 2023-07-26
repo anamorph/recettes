@@ -1,6 +1,6 @@
 # Old-fashioned veal stew
 
-![Old-fashioned veal stew steak](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
+![Old-fashioned veal stew steak](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
 
 ## Details:
 * Serves: 8 people

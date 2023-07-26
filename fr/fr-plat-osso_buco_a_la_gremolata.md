@@ -3,7 +3,7 @@
 > L’osso buco (traduit littéralement en français par « os troué ») est un plat traditionnel milanais, très parfumé, constitué d'un ragoût de tronçons (ou rouelles) de jarret de veau, braisé au vin blanc sec et agrémenté de légumes (carottes, tomates et poireaux) que l'on sert généralement accompagné de risotto à la milanaise. La moelle est cuisinée et servie avec son os.
 > Cette variante traditionnelle dite à la gremolata sans tomates est agrémentée d'un hachis d'ail, d'un zeste de citron (lorsqu'il est dit « à la gremolata ») et d'herbes fraiches hâchées finement. 
 
-![Osso Buco à la gremolata](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-osso_buco_a_la_gremolata-01.jpg?raw=true)
+![Osso Buco à la gremolata](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-osso_buco_a_la_gremolata-01.jpg?raw=true)
 
 ## Details:
 * Sert: 4 personnes

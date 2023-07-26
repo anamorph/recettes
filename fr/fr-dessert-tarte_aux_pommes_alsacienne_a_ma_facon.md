@@ -1,8 +1,8 @@
 # Tarte aux pommes Alsacienne à ma façon
 
-![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
-![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
-![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
+![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-01.jpg?raw=true)
+![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-02.jpg?raw=true)
+![Tarte aux pommes Alsacienne à ma façon](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-tarte_aux_pommes_alsacienne_a_ma_facon-03.jpg?raw=true)
 
 ## Details:
 * Sert: 8 personnes

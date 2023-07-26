@@ -1,8 +1,8 @@
 # Kare Raisu
 
-![Kare Raisu](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-kare_raisu-01.jpg?raw=true) 
+![Kare Raisu](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-kare_raisu-01.jpg?raw=true) 
 
-![Kare Raisu](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-kare_raisu-02.jpg?raw=true)
+![Kare Raisu](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-kare_raisu-02.jpg?raw=true)
 
 ## Details:
 * Serves: 4 people

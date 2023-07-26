@@ -3,7 +3,7 @@
 > Marengo is first of all a village in northern Italy (Piedmont). Napoleon Bonaparte won a victory there in 1800.
 > The battle raged all day on June 14, 1800 in Marengo, the victory of Bonaparte and his generals awakened the First Consul's stomach. Cook Dunan is embarrassed because the advance of the French troops has isolated him from the supply vans. So he decides to use all the products at his disposal, he manages to gather chicken, tomatoes, garlic, green parsley. he sautes the chicken with olive oil and gradually adds the foods he has found. 
 
-![Marengo calf my way](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
+![Marengo calf my way](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-veau_marengo_a_ma_facon-01.jpg?raw=true)
 
 ## Details:
 * Serves: 6 people

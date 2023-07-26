@@ -2,8 +2,8 @@
 
 > خلال فترة الكساد الكبير، التي بدأت مع انهيار سوق الأسهم عام 1929 واستمرت خلال معظم الثلاثينيات، أصبحت كل قطعة طعام ذات قيمة. لم تكن الأسر على استعداد للتخلص من أي شيء - حتى الموز «الفاسد». بدأت وصفات خبز الموز الأولى في الازدهار في كتيبات وصفات الطبخ. يتم الاحتفال بهذه اللعبة الكلاسيكية الآن في 23 فبراير، الذي تم الإعلان عنه رسميًا يوم خبز الموز! 
 
-![خبز الموز](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-banana_bread-01.jpg?raw=true) 
-![خبز الموز](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-banana_bread-02.jpg?raw=true) 
+![خبز الموز](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-banana_bread-01.jpg?raw=true) 
+![خبز الموز](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-banana_bread-02.jpg?raw=true) 
 
 ## التفاصيل:
 * يخدم: 6 أشخاص 

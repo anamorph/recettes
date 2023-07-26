@@ -2,7 +2,7 @@
 
 > The chorba (Turkish: çorba), (Persian: shurba), (Amharic:), chorwa (Pashto: shurpa), churpa (Russian: shurpa), chorpa (Uyghur: shurpa), chorpo (Kyrgyz: sorpo), and sorpa (Kazakh: sopra), chorpo (Kyrgyz: sorpo), and sorpa (Kazakh: sopra) Rpa) is a traditional soup from North Africa, the Balkans, Eastern Europe, Central Asia, the Middle East, and South Asia. This lentil-based soup is generally consumed in winter, although you don't need excuses to eat it throughout the year. It also provides folic acid and the dietary fiber content of lentils is exceptional.
 
-![Algerian lentil soup](https://github.com/anamorph/recettes/blob/master/photos/fr-soupe-aux-lentilles-algerienne-01.jpg?raw=true)
+![Algerian lentil soup](https://github.com/anamorph/recettes/blob/main/photos/fr-soupe-aux-lentilles-algerienne-01.jpg?raw=true)
 
 ## Details:
 * Serves: 4 people

@@ -2,7 +2,7 @@
 
 > The yogurt cake is the cake of our childhood par excellence. It is very simple to prepare and to accommodate because the pot is used as a unit of measurement. For my part, I prepare it in a Ciambella mold with lemon zest and a little bit of cane sugar.
 
-![Yoghurt Cake](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-gateau-au-yaourt-01.jpg?raw=true) 
+![Yoghurt Cake](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-gateau-au-yaourt-01.jpg?raw=true) 
 
 ## Details:
 * Serves: 6 people 

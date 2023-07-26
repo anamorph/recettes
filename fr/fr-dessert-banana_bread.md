@@ -2,8 +2,8 @@
 
 > Pendant la Grande Dépression, qui a commencé avec le krach boursier de 1929 et a duré pendant une grande partie des années 1930, chaque morceau de nourriture est devenu précieux. Les ménages n'étaient pas disposés à jeter quoi que ce soit - même une banane "pourrie". Les premières recettes de Banana Bread ont commencé à fleurir dans les manuels de recettes de cuisine. Ce classique est désormais célébré le 23 février, officiellement déclaré Banana Bread Day !  
 
-![Banana Bread](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-banana_bread-01.jpg?raw=true)  
-![Banana Bread](https://github.com/anamorph/recettes/blob/master/photos/fr-dessert-banana_bread-02.jpg?raw=true)  
+![Banana Bread](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-banana_bread-01.jpg?raw=true)  
+![Banana Bread](https://github.com/anamorph/recettes/blob/main/photos/fr-dessert-banana_bread-02.jpg?raw=true)  
 
 ## Details:
 * Sert: 6 personnes  

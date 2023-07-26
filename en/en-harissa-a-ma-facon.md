@@ -2,7 +2,7 @@
 
 > Harissa or harissa is a red pepper purée native to Tunisia. The chilies are dried in the sun and then ground with spices, including cumin, coriander, caraway and sun-dried tomatoes. However, harissa can also be prepared with fresh chilies or steamed and mixed chilies. Harissa is usually sold in cans, but harissa can also be found in tubes. There are regional varieties depending on the type of chilies, taste and preparation. Thus, Berber harissa is prepared with dried cayenne pepper, garlic, oil, salt and some spices. 
 
-![Harissa My Way](https://github.com/anamorph/recettes/blob/master/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
+![Harissa My Way](https://github.com/anamorph/recettes/blob/main/photos/fr-harissa-a-ma-facon-01.jpg?raw=true)
 
 ## Details:
 * Serves: 4 people who like it when it stings

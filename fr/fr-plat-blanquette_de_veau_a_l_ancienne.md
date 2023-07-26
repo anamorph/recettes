@@ -1,6 +1,6 @@
 # Blanquette de veau à l'ancienne
 
-![Blanquette de veau à l'ancienne](https://github.com/anamorph/recettes/blob/master/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
+![Blanquette de veau à l'ancienne](https://github.com/anamorph/recettes/blob/main/photos/fr-plat-blanquette_de_veau_a_l_ancienne-01.jpg?raw=true)
 
 ## Details:
 * Sert: 8 personnes
