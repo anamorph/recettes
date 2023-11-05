@@ -20,6 +20,3 @@ photos
     - instructions
     - keywords
 ```
-
-# License
-These recipes are free to use, however, please do mention me if you're going to use them in a publication, online or offline, printed or digital.
