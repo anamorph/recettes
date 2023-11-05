@@ -11,7 +11,13 @@ translate = boto3.client(service_name='translate', region_name=defaultRegion, us
 if len(sys.argv) >= 3:
 	inputFile = sys.argv[1]
 	outputLanguage = sys.argv[2]
-	outputFile =  str(inputFile).replace('fr', outputLanguage)
+	inputRecipeName = sys.argv[3]
+	#
+	# Translating the filename, for consistency sake
+	outputTranslatedFileName = translate.translate_text(Text=inputRecipeName, SourceLanguageCode="fr", TargetLanguageCode=outputLanguage)
+	outputTranslatedFileName = outputTranslatedFileName.get('TranslatedText').replace(' ', '-')
+	outputFile = outputLanguage + "/" + outputLanguage + "-" + outputTranslatedFileName + ".md"
+
 	if not os.path.isdir(outputLanguage):
 		#
 		# If directory structure doesn't exist, then create it. 

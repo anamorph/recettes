@@ -11,6 +11,8 @@
 #			v1.2	nicolas@	Adding translation capabilities to multiple
 #								languages, but keeping it simple with spanish.
 #
+#			v1.3	nicolas@	Adding recipe filename translation.
+#
 ## purpose:
 # ----------------------------------------------------------------------------
 # This script will launch the translation of cooking recipes from French to 
@@ -33,6 +35,8 @@ fi
 echo "### Translating recipes"
 for i in $(ls fr/*.md)
 	do
+		recipe_original_name=$(basename $i .md | sed 's/^fr-//g' | sed 's/[-_]/ /g')
+		echo $recipe_original_name
 		#
 		# Exporting this recipe's checksum.
 		export recipe_checksum=$(shasum $i)
@@ -44,15 +48,17 @@ for i in $(ls fr/*.md)
 		# if it doesn't exist, we translate it.
 		else
 			echo "-> [not found!] original recipe is new or has changed."
+			echo $i
 			for lang in "${translation_languages[@]}"
 			do
-				python3 translate_recipes.py $i $lang
+				python3 translate_recipes.py $i $lang "$recipe_original_name"
 			done
 			#
 			# once translated in all the selected languages, we add the
 			# checksum to the recipe checksum file
-			echo "adding checksum to file"
+			echo "-> adding checksum to file"
 			echo $recipe_checksum >> $recipe_checksum_file
+			echo "---"
 		fi
 	done
 #
