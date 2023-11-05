@@ -8,6 +8,7 @@ The initial idea was to create a "forkable" repository and a front-end to experi
 Somehow, this project now involves ml-powered translation capabilities for my recipes via [Amazon Translate](https://aws.amazon.com/translate/).
 
 ## Document Structure
+The structure or format of the recipes is as follows:
 ```
 Recipe Name
 ---
@@ -21,3 +22,4 @@ photos
 ```
 
 ## Front-End
+Work in Progress
