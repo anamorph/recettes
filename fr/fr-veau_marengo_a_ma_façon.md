@@ -35,3 +35,7 @@
 1. Ajoutez le thym, la pulple de tomates et terminez par le vinaigre et utilisez la boite des tomates pour rajouter 2 fois son volume en eau.
 1. Couvrez et laissez cuire à petits frémissements pendant 1h30.
 1. Laissez complètement refroidir avant d’entreposer au réfrigérateur pour une nuit. Le lendemain, réchauffez sur feu doux et servez avec des tagliatelles ou des gnocchis sarde.
+
+## Keywords
+* Plat
+* Cuisine Italienne

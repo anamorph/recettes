@@ -28,11 +28,16 @@
 * 1 cuillère à soupe de coriandre fraiche hachée
 
 ## Instructions:
-0. Rincez vos lentilles et égouttez-les.
+1. Rincez vos lentilles et égouttez-les.
 1. Dans un mortier pour épices (ou tout autre moyen de broyer les épices), broyez le poivre en grains, les graines de cumin, les graines de coriandre et le sel ensemble.
-2. Faites chauffer l'huile d'olive (ou ghee) dans un faitout et faites y revenir l'oignon, le celery et l'ail pendant quelques instants.
-3. Puis ajoutez les morceaux de viande, les épices broyées, le concentré de tomates et éventuellement l'harissa. Laissez revenir à feu moyen en mélangeant de temps en temps.
-4. Ajoutez ensuite les lentilles, les carottes et les pommes de terre.
-5. Versez de l'eau (environ 3 fois le volume des lentilles) et portez à ébullition, puis baissez le feu, couvrez le faitout et laissez cuire doucement à petit feu pendant environ 40 mins.
-6. En fin de cuisson, si la soupe venait à être trop épaisse, rajoutez un verre d'eau et completez l'assaisonnement en sel.
-7. Servir chaud, parsemée de coriandre fraîche ciselée.
+1. Faites chauffer l'huile d'olive (ou ghee) dans un faitout et faites y revenir l'oignon, le celery et l'ail pendant quelques instants.
+1. Puis ajoutez les morceaux de viande, les épices broyées, le concentré de tomates et éventuellement l'harissa. Laissez revenir à feu moyen en mélangeant de temps en temps.
+1. Ajoutez ensuite les lentilles, les carottes et les pommes de terre.
+1. Versez de l'eau (environ 3 fois le volume des lentilles) et portez à ébullition, puis baissez le feu, couvrez le faitout et laissez cuire doucement à petit feu pendant environ 40 mins.
+1. En fin de cuisson, si la soupe venait à être trop épaisse, rajoutez un verre d'eau et completez l'assaisonnement en sel.
+1. Servir chaud, parsemée de coriandre fraîche ciselée.
+
+## Keywords
+* Soupe
+* Cuisine Algérienne
+* Traditionnel

@@ -34,4 +34,4 @@
 * Cuisine Française
 * Végétarien
 * Allergènes
-  * Amandes
+    * Amandes

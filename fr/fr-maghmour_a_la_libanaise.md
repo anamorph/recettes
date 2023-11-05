@@ -45,4 +45,4 @@ Le maghmour est un plat qui remonte à la fin du 19e siècle; parfois appelée M
 * Cuisine libanaise
 * vegan
 * Allergènes
-  * Pois chiche
+    * Pois chiche

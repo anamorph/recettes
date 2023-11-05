@@ -22,10 +22,15 @@
 * huile d'olive  
 
 ## Instructions:  
-0. Dans un bol, faire macérer le pain de mie dans le lait.  
+1. Dans un bol, faire macérer le pain de mie dans le lait.  
 1. Mélanger le bœuf haché et le veau haché. Ajouter les amandes, le persil, le Pecorino, l’ail mélangé à une cuillère à soupe d’huile et les deux jaunes d’œuf. Verser le pain de mie essoré à la préparation. Malaxer pour obtenir un appareil à boulettes bien uniforme. Mettre au frais.  
-2. Préparer la sauce tomate. Dans une casserole, faire revenir l’oignon dans de l’huile. Ajouter le basilic coupé et les tomates coupées en dés. Laisser mijoter pendant quelques minutes.  
-3. Former des boulettes d'à peu près 4-5cm de diamètre et les déposer dans la sauce tomate. Laisser cuire une vingtaine de minutes en les retournant régulièrement.  
-4. Disposer les boulettes dans un plat. Y ajouter la sauce tomate. Râper du Pecorino sur le dessus.  
-5. Faire cuire au four pendant cinq minutes pour gratiner.  
-6. Servir avec des spaghettis al dente.  
+1. Préparer la sauce tomate. Dans une casserole, faire revenir l’oignon dans de l’huile. Ajouter le basilic coupé et les tomates coupées en dés. Laisser mijoter pendant quelques minutes.  
+1. Former des boulettes d'à peu près 4-5cm de diamètre et les déposer dans la sauce tomate. Laisser cuire une vingtaine de minutes en les retournant régulièrement.  
+1. Disposer les boulettes dans un plat. Y ajouter la sauce tomate. Râper du Pecorino sur le dessus.  
+1. Faire cuire au four pendant cinq minutes pour gratiner.  
+1. Servir avec des spaghettis al dente.  
+
+## Keywords
+* Accompagnement
+* Cuisine Italienne
+* Cultissime !
