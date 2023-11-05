@@ -36,7 +36,6 @@ echo "### Translating recipes"
 for i in $(ls fr/*.md)
 	do
 		recipe_original_name=$(basename $i .md | sed 's/^fr-//g' | sed 's/[-_]/ /g')
-		echo $recipe_original_name
 		#
 		# Exporting this recipe's checksum.
 		export recipe_checksum=$(shasum $i)

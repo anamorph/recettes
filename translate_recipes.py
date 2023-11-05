@@ -29,8 +29,7 @@ if len(sys.argv) >= 3:
 	outputTranslation = translate.translate_text(Text=data, SourceLanguageCode="fr", TargetLanguageCode=outputLanguage)
 
 	print('translating: ' + inputFile)
-	print('from: ' + outputTranslation.get('SourceLanguageCode'))
-	print('to: ' + outputTranslation.get('TargetLanguageCode'))
+	print('to: ' + outputFile)
 	#
 	# Fixing inconsistencies with markdown
 	outputTranslationData = outputTranslation.get('TranslatedText')
