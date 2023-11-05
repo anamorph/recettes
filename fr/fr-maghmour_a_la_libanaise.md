@@ -42,7 +42,7 @@ Le maghmour est un plat qui remonte à la fin du 19e siècle; parfois appelée M
 
 ## Keywords
 * Accompagnement
-* Cuisine libanaise
+* Gastronomie Libanaise
 * vegan
 * Allergènes
     * Pois chiche

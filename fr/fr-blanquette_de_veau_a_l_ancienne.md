@@ -8,7 +8,7 @@
 * Sert: 8 personnes
 * Temps de préparation:  30 mins
 * Temps de cuisson:  90 mins
-* Temps Total:  2 hrs 00 mins
+* **Temps Total**:  2 hrs 00 mins
 
 ## Ingredients:
 ### Preparation du veau
@@ -75,5 +75,5 @@
 
 ## Keywords
 * Plat
-* Cuisine Française
+* Gastronomie Française
 * Traditionnel

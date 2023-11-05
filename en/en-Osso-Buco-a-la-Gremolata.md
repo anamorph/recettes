@@ -9,7 +9,7 @@
 * Serves: 4 people
 * Preparation time: 30 mins
 * Cooking time: 120 mins
-* Total time: 2 hrs 30 mins
+**Total Time**: 2 hrs 30 mins
 
 ## Ingredients:
 ### For osso buco:
@@ -55,5 +55,5 @@
 
 ## Keywords
 * Dish
-* Italian cuisine
+* Italian gastronomy
 * Traditional

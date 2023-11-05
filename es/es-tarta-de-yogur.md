@@ -8,7 +8,7 @@
 * Sirve a: 6 personas 
 * Tiempo de preparación: 10 minutos 
 * Tiempo de cocción: 35 minutos 
-* Tiempo total: 45 minutos 
+**Tiempo total**: 45 minutos 
 
 ## Ingredientes: 
 * 1 tarro de yogur natural 
@@ -31,5 +31,5 @@
 
 ## Palabras clave
 * Postre
-* Cocina francesa
+* Gastronomía francesa
 * Vegetariano

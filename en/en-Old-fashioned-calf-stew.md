@@ -8,7 +8,7 @@
 * Serves: 8 people
 * Preparation time: 30 mins
 * Cooking time: 90 mins
-* Total time: 2 hrs 00 mins
+**Total Time**: 2 hrs 00 mins
 
 ## Ingredients:
 ### Preparing the veal
@@ -75,5 +75,5 @@
 
 ## Keywords
 * Dish
-* French cuisine
+* French gastronomy
 * Traditional

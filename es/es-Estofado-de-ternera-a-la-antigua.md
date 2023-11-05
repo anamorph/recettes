@@ -8,7 +8,7 @@
 * Sirve a: 8 personas
 * Tiempo de preparación: 30 minutos
 * Tiempo de cocción: 90 minutos
-* Tiempo total: 2 horas 00 minutos
+**Tiempo total**: 2 horas 00 minutos
 
 ## Ingredientes:
 ### Preparando la ternera
@@ -75,5 +75,5 @@
 
 ## Palabras clave
 * Plato
-* Cocina francesa
+* Gastronomía francesa
 * Tradicional

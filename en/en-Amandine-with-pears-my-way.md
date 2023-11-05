@@ -6,7 +6,7 @@
 * Serves: 8 people
 * Preparation time: 15 mins
 * Cooking time: 40-45 mins
-* Total time: 1 hrs 0 mins
+**Total Time**: 1 hrs 0 mins
 
 ## Ingredients:
 * 1 sweet pastry (shortcrust pastry or almond shortcrust pastry)
@@ -31,7 +31,7 @@
 
 ## Keywords
 * Dessert
-* French cuisine
+* French gastronomy
 * Vegetarian
 * Allergens
  * Almonds

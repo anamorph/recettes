@@ -8,7 +8,7 @@
 * Sert: 6 personnes  
 * Temps de préparation:  10 mins  
 * Temps de cuisson:  35 mins  
-* Temps Total: 45 mins  
+* **Temps Total**: 45 mins  
 
 ## Ingredients:  
 * 1 pot de yaourt nature  
@@ -31,5 +31,5 @@
 
 ## Keywords
 * Dessert
-* Cuisine Française
+* Gastronomie Française
 * Végétarien

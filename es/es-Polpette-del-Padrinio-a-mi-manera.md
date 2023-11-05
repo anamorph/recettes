@@ -4,7 +4,7 @@
 * Sirve: 4 personas 
 * Tiempo de preparación: 15 minutos 
 * Tiempo de cocción: 60 minutos 
-* Tiempo total: 1 hora y 15 minutos 
+**Tiempo total**: 1 hora y 15 minutos 
 
 ## Ingredientes: 
 * 200 g de carne molida 
@@ -32,5 +32,5 @@
 
 ## Palabras clave
 * Soporte
-* Cocina italiana
-* ¡Cultismal!
+* Gastronomía italiana
+* ¡Cultismo!

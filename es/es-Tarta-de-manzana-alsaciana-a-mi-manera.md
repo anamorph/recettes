@@ -8,7 +8,7 @@
 * Sirve a: 8 personas
 * Tiempo de preparación: 45 minutos
 * Tiempo de cocción: 45-50 minutos)
-* Tiempo total: 1 hora y 40 minutos
+**Tiempo total**: 1 hora y 40 minutos
 
 ## Ingredientes:
 * 1 masa de hojaldre
@@ -34,7 +34,7 @@
 
 ## Palabras clave
 * Postre
-* Cocina francesa
+* Gastronomía francesa
 * Vegetariano
 * Alérgenos
  * Almendras

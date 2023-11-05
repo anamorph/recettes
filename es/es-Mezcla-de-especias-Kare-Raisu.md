@@ -30,5 +30,5 @@
 
 ## Palabras clave
 * Mezcla de especias
-* Cocina japonesa
+* Gastronomía japonesa
 * Vegetariano

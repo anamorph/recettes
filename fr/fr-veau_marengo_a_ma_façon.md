@@ -9,7 +9,7 @@
 * Sert: 6 personnes
 * Temps de préparation:  20 mins
 * Temps de cuisson:  90 mins
-* Temps Total:  1 hrs 50 mins
+* **Temps Total**:  1 hrs 50 mins
 
 ## Ingredients:
 * 1,2 kg d'épaule de veau preparée comme pour une blanquette de veau
@@ -38,4 +38,4 @@
 
 ## Keywords
 * Plat
-* Cuisine Italienne
+* Gastronomie Italienne

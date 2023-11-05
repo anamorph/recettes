@@ -7,7 +7,7 @@
 * Serves: 4 people
 * Preparation time: 30 mins
 * Cooking time: 150 mins
-* Total time: 3 hrs 00 mins
+**Total Time**: 3 hrs 00 mins
 
 ## Ingredients:
 * 500g beef mackerel (I use low-fat meat)
@@ -42,4 +42,4 @@
 
 ## Keywords
 * Dish
-* Japanese cuisine
+* Japanese gastronomy

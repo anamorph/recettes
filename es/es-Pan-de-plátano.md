@@ -31,7 +31,7 @@
 
 ## Palabras clave
 * Postre
-* Cocina americana
+* Gastronomía estadounidense
 * Vegetariano
 * Alérgenos
  * Frutos secos

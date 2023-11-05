@@ -4,7 +4,7 @@
 * Sert: 8 personnes
 * Temps de préparation:  20 mins
 * Temps de cuisson:  45 mins
-* Temps Total:  1 hrs 05 mins
+* **Temps Total**:  1 hrs 05 mins
 
 ## Ingredients:
 * 750g de cerises bien mûres
@@ -30,5 +30,5 @@
 
 ## Keywords
 * Dessert
-* Cuisine Française
+* Gastronomie Française
 * Végétarien

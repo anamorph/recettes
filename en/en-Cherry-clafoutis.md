@@ -4,7 +4,7 @@
 * Serves: 8 people
 * Preparation time: 20 mins
 * Cooking time: 45 mins
-* Total time: 1 hrs 05 mins
+**Total Time**: 1 hrs 05 mins
 
 ## Ingredients:
 * 750g of ripe cherries
@@ -30,5 +30,5 @@
 
 ## Keywords
 * Dessert
-* French cuisine
+* French gastronomy
 * Vegetarian

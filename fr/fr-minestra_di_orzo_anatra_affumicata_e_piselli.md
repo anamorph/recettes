@@ -6,7 +6,7 @@
 * Sert: 6 personnes
 * Temps de préparation:  5 mins
 * Temps de cuisson:  25 mins
-* Temps Total:  30 mins
+* **Temps Total**:  30 mins
 
 ## Ingredients:
 * 1 cuillère à soupe de beurre non salé
@@ -32,4 +32,4 @@
 
 ## Keywords
 * Soupe
-* Cuisine Italienne
+* Gastronomie Italienne

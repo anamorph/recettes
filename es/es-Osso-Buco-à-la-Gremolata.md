@@ -9,7 +9,7 @@
 * Sirve: 4 personas
 * Tiempo de preparación: 30 minutos
 * Tiempo de cocción: 120 minutos
-* Tiempo total: 2 horas y 30 minutos
+**Tiempo total**: 2 horas y 30 minutos
 
 ## Ingredientes:
 ### Para osso buco:
@@ -55,5 +55,5 @@
 
 ## Palabras clave
 * Plato
-* Cocina italiana
+* Gastronomía italiana
 * Tradicional

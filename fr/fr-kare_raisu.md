@@ -7,7 +7,7 @@
 * Sert: 4 personnes
 * Temps de préparation: 30 mins
 * Temps de cuisson: 150 mins
-* Temps Total: 3 hrs 00 mins
+* **Temps Total**: 3 hrs 00 mins
 
 ## Ingredients:
 * 500g de paleron de boeuf (J'utilise une viande peu grasse)
@@ -42,4 +42,4 @@
 
 ## Keywords
 * Plat
-* Cuisine Japonaise
+* Gastronomie Japonaise

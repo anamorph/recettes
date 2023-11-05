@@ -30,5 +30,5 @@
 
 ## Keywords
 * Mélange d'épices
-* Cuisine Japonaise
+* Gastronomie Japonaise
 * Végétarien

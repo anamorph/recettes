@@ -4,7 +4,7 @@
 * Sert: 4 personnes  
 * Temps de préparation:  15 mins  
 * Temps de cuisson:  60 mins  
-* Temps Total:  1 hrs 15 mins  
+* **Temps Total**:  1 hrs 15 mins  
 
 ## Ingredients:  
 * 200g de bœuf haché  
@@ -32,5 +32,5 @@
 
 ## Keywords
 * Accompagnement
-* Cuisine Italienne
+* Gastronomie Italienne
 * Cultissime !

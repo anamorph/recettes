@@ -8,7 +8,7 @@
 * Sert: 8 personnes
 * Temps de préparation:  45 mins
 * Temps de cuisson:  45-50 mins)
-* Temps Total:  1 hrs 40 mins
+* **Temps Total**:  1 hrs 40 mins
 
 ## Ingredients:
 * 1 pate feuilletée
@@ -34,7 +34,7 @@
 
 ## Keywords
 * Dessert
-* Cuisine Française
+* Gastronomie Française
 * Végétarien
 * Allergènes
     * Amandes

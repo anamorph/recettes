@@ -8,7 +8,7 @@
 * Serves: 4 people
 * Preparation time: 10 mins
 * Cooking time: 45 mins
-* Total time: 0 hrs 55 mins
+**Total Time**: 0 hrs 55 mins
 
 ## Ingredients:
 * 400 g of beef, cut into pieces about 3cm on each side
@@ -39,5 +39,5 @@
 
 ## Keywords
 * Soup
-* Algerian cuisine
+* Algerian gastronomy
 * Traditional

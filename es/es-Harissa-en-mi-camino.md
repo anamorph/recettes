@@ -8,7 +8,7 @@
 * Para 4 personas, a las que les gusta cuando pica
 * Tiempo de preparación: 15 minutos
 * Tiempo de cocción:
-* Tiempo total: 0 horas y 15 minutos
+**Tiempo total**: 0 horas y 15 minutos
 
 ## Ingredientes:
 * 600 g de chiles rojos
@@ -35,5 +35,5 @@
 
 ## Palabras clave
 * Condimento
-* Cocina tunecina
+* Gastronomía tunecina
 * Vegano

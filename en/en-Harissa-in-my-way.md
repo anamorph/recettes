@@ -8,7 +8,7 @@
 * Serves: 4 people who like it when it stings
 * Preparation time: 15 mins
 * Cooking time:
-* Total time: 0 hrs 15 mins
+**Total Time**: 0 hrs 15 mins
 
 ## Ingredients:
 * 600g red chilies
@@ -35,5 +35,5 @@
 
 ## Keywords
 * Condiment
-* Tunisian cuisine
+* Tunisian gastronomy
 * Vegan

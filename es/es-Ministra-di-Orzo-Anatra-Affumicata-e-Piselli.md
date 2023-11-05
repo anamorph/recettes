@@ -6,7 +6,7 @@
 * Sirve a: 6 personas
 * Tiempo de preparación: 5 minutos
 * Tiempo de cocción: 25 minutos
-* Tiempo total: 30 minutos
+**Tiempo total**: 30 minutos
 
 ## Ingredientes:
 * 1 cucharada de mantequilla sin sal
@@ -32,4 +32,4 @@
 
 ## Palabras clave
 * Sopa
-* Cocina italiana
+* Gastronomía italiana

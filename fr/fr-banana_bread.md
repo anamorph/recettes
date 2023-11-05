@@ -31,7 +31,7 @@
 
 ## Keywords
 * Dessert
-* Cuisine Américaine
+* Gastronomie Américaine
 * Végétarien
 * Allergènes
     * Noix

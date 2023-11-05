@@ -4,7 +4,7 @@
 * Sert: 8 personnes
 * Temps de préparation:  10 mins
 * Temps de cuisson:  35 mins
-* Temps Total:  0 hrs 45 mins
+* **Temps Total**:  0 hrs 45 mins
 
 ## Ingredients:
 * 1 pate sablée
@@ -26,7 +26,7 @@
 
 ## Keywords
 * Dessert
-* Cuisine Française
+* Gastronomie Française
 * Végétarien
 * Allergènes
     * Amandes

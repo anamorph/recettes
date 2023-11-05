@@ -8,7 +8,7 @@
 * Sert: 4 personnes
 * Temps de préparation:  10 mins
 * Temps de cuisson:  45 mins
-* Temps Total:  0 hrs 55 mins
+* **Temps Total**:  0 hrs 55 mins
 
 ## Ingredients:
 * 400 g de viande de bœuf, coupée en morceaux d'environ 3cm de coté
@@ -39,5 +39,5 @@
 
 ## Keywords
 * Soupe
-* Cuisine Algérienne
+* Gastronomie Algérienne
 * Traditionnel

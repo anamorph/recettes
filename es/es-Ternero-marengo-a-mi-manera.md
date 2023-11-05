@@ -9,7 +9,7 @@
 * Sirve a: 6 personas
 * Tiempo de preparación: 20 minutos
 * Tiempo de cocción: 90 minutos
-* Tiempo total: 1 hora y 50 minutos
+**Tiempo total**: 1 hora y 50 minutos
 
 ## Ingredientes:
 * 1,2 kg de paletilla de ternera preparada como para un guiso de ternera
@@ -38,4 +38,4 @@
 
 ## Palabras clave
 * Plato
-* Cocina italiana
+* Gastronomía italiana

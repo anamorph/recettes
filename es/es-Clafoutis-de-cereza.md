@@ -4,7 +4,7 @@
 * Sirve a: 8 personas
 * Tiempo de preparación: 20 minutos
 * Tiempo de cocción: 45 minutos
-* Tiempo total: 1 hora 05 minutos
+**Tiempo total**: 1 hora y 05 minutos
 
 ## Ingredientes:
 * 750 g de cerezas maduras
@@ -30,5 +30,5 @@
 
 ## Palabras clave
 * Postre
-* Cocina francesa
+* Gastronomía francesa
 * Vegetariano

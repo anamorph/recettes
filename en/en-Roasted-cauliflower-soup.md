@@ -4,7 +4,7 @@
 * Serves: 6 people
 * Preparation time: 15 mins
 * Cooking time: 60 mins
-* Total time: 1 hrs 15 mins
+**Total Time**: 1 hrs 15 mins
 
 ## Ingredients:
 * 1 good-sized cauliflower
@@ -32,4 +32,4 @@
 
 ## Keywords
 * Soup
-* Fusion cuisine
+* Fusion gastronomy

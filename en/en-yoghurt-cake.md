@@ -8,7 +8,7 @@
 * Serves: 6 people 
 * Preparation time: 10 mins 
 * Cooking time: 35 mins 
-* Total time: 45 mins 
+**Total Time**: 45 mins 
 
 ## Ingredients: 
 * 1 jar of plain yogurt 
@@ -31,5 +31,5 @@
 
 ## Keywords
 * Dessert
-* French cuisine
+* French gastronomy
 * Vegetarian

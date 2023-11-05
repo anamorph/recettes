@@ -8,7 +8,7 @@
 * Sert: 4 personnes qui aiment quand ça pique
 * Temps de préparation:  15 mins
 * Temps de cuisson:
-* Temps Total:  0 hrs 15 mins
+* **Temps Total**:  0 hrs 15 mins
 
 ## Ingredients:
 * 600g de piments rouge
@@ -35,5 +35,5 @@
 
 ## Keywords
 * Condiment
-* Cuisine Tunisienne
+* Gastronomie Tunisienne
 * Vegan

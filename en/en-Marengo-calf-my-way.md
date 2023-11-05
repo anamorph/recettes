@@ -9,7 +9,7 @@
 * Serves: 6 people
 * Preparation time: 20 mins
 * Cooking time: 90 mins
-* Total time: 1 hrs 50 mins
+**Total Time**: 1 hrs 50 mins
 
 ## Ingredients:
 * 1.2 kg of calf shoulder prepared as for a calf stew
@@ -38,4 +38,4 @@
 
 ## Keywords
 * Dish
-* Italian cuisine
+* Italian gastronomy

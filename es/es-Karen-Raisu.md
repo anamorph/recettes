@@ -7,7 +7,7 @@
 * Sirve: 4 personas
 * Tiempo de preparación: 30 minutos
 * Tiempo de cocción: 150 minutos
-* Tiempo total: 3 horas 00 minutos
+**Tiempo total**: 3 horas 00 minutos
 
 ## Ingredientes:
 * 500 g de caballa de ternera (yo uso carne baja en grasa)
@@ -42,4 +42,4 @@
 
 ## Palabras clave
 * Plato
-* Cocina japonesa
+* Gastronomía japonesa

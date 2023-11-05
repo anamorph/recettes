@@ -42,7 +42,7 @@ Maghmour is a dish that dates back to the end of the 19th century; sometimes cal
 
 ## Keywords
 * Support
-* Lebanese cuisine
+* Lebanese gastronomy
 * vegan
 * Allergens
  * Chickpea

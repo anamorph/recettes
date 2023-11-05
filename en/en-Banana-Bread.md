@@ -31,7 +31,7 @@
 
 ## Keywords
 * Dessert
-* American cuisine
+* American gastronomy
 * Vegetarian
 * Allergens
  * Nuts

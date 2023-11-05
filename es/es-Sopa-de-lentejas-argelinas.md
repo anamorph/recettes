@@ -8,7 +8,7 @@
 * Sirve: 4 personas
 * Tiempo de preparación: 10 minutos
 * Tiempo de cocción: 45 minutos
-* Tiempo total: 0 horas 55 minutos
+**Tiempo total**: 0 horas 55 minutos
 
 ## Ingredientes:
 * 400 g de ternera, cortada en trozos de unos 3 cm de cada lado
@@ -39,5 +39,5 @@
 
 ## Palabras clave
 * Sopa
-* Cocina argelina
+* Gastronomía argelina
 * Tradicional

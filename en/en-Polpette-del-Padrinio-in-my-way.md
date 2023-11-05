@@ -4,7 +4,7 @@
 * Serves: 4 people 
 * Preparation time: 15 mins 
 * Cooking time: 60 mins 
-* Total time: 1 hrs 15 mins 
+**Total Time**: 1 hrs 15 mins 
 
 ## Ingredients: 
 * 200g ground beef 
@@ -32,5 +32,5 @@
 
 ## Keywords
 * Support
-* Italian cuisine
-* Cultismal!
+* Italian gastronomy
+* Cultism!

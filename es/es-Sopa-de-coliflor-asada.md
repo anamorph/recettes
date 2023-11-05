@@ -4,7 +4,7 @@
 * Sirve a: 6 personas
 * Tiempo de preparación: 15 minutos
 * Tiempo de cocción: 60 minutos
-* Tiempo total: 1 hora y 15 minutos
+**Tiempo total**: 1 hora y 15 minutos
 
 ## Ingredientes:
 * 1 coliflor de buen tamaño
@@ -32,4 +32,4 @@
 
 ## Palabras clave
 * Sopa
-* Cocina fusión
+* Gastronomía fusión

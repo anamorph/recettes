@@ -6,7 +6,7 @@
 * Sert: 8 personnes
 * Temps de préparation: 15 mins
 * Temps de cuisson: 40-45 mins
-* Temps Total: 1 hrs 0 mins
+* **Temps Total**: 1 hrs 0 mins
 
 ## Ingredients:
 * 1 pâte sucrée (pâte sablée ou pâte sablée amandes)
@@ -31,7 +31,7 @@
 
 ## Keywords
 * Dessert
-* Cuisine Française
+* Gastronomie Française
 * Végétarien
 * Allergènes
     * Amandes

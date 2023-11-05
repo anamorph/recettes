@@ -6,7 +6,7 @@
 * Serves: 6 people
 * Preparation time: 5 mins
 * Cooking time: 25 mins
-* Total time: 30 mins
+**Total Time**: 30 mins
 
 ## Ingredients:
 * 1 tablespoon unsalted butter
@@ -32,4 +32,4 @@
 
 ## Keywords
 * Soup
-* Italian cuisine
+* Italian gastronomy

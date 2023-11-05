@@ -8,7 +8,7 @@
 * Serves: 8 people
 * Preparation time: 45 mins
 * Cooking time: 45-50 mins)
-* Total time: 1 hrs 40 mins
+**Total Time**: 1 hr 40 mins
 
 ## Ingredients:
 * 1 puff pastry
@@ -34,7 +34,7 @@
 
 ## Keywords
 * Dessert
-* French cuisine
+* French gastronomy
 * Vegetarian
 * Allergens
  * Almonds

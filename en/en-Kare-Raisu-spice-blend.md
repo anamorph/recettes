@@ -30,5 +30,5 @@
 
 ## Keywords
 * Spice blend
-* Japanese cuisine
+* Japanese gastronomy
 * Vegetarian

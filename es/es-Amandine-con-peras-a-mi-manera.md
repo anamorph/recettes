@@ -6,7 +6,7 @@
 * Sirve a: 8 personas
 * Tiempo de preparación: 15 minutos
 * Tiempo de cocción: 40-45 minutos
-* Tiempo total: 1 hora 0 minutos
+**Tiempo total**: 1 hora 0 minutos
 
 ## Ingredientes:
 * 1 masa dulce (masa quebrada o masa quebrada de almendras)
@@ -31,7 +31,7 @@
 
 ## Palabras clave
 * Postre
-* Cocina francesa
+* Gastronomía francesa
 * Vegetariano
 * Alérgenos
  * Almendras

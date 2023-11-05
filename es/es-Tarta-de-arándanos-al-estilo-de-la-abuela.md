@@ -4,7 +4,7 @@
 * Sirve a: 8 personas
 * Tiempo de preparación: 10 minutos
 * Tiempo de cocción: 35 minutos
-* Tiempo total: 0 horas 45 minutos
+**Tiempo total**: 0 horas 45 minutos
 
 ## Ingredientes:
 * 1 masa quebrada
@@ -26,7 +26,7 @@
 
 ## Palabras clave
 * Postre
-* Cocina francesa
+* Gastronomía francesa
 * Vegetariano
 * Alérgenos
  * Almendras

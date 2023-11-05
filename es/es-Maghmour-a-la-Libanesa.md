@@ -42,7 +42,7 @@ El maghmour es un plato que se remonta a finales del siglo XIX, a veces llamado 
 
 ## Palabras clave
 * Soporte
-* Cocina libanesa
+* Gastronomía libanesa
 * vegano
 * Alérgenos
  * Garbanzo
