@@ -3,9 +3,10 @@ import boto3
 import sys
 import os
 
+# 
+# change to your region of choice here
 defaultRegion = 'eu-west-1'
 translate = boto3.client(service_name='translate', region_name=defaultRegion, use_ssl=True)
-
 
 if len(sys.argv) >= 3:
 	inputFile = sys.argv[1]
