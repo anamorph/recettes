@@ -7,9 +7,9 @@
 
 ## Details:
 * Sert: 4 personnes
-* Temps de préparation:  30 mins
-* Temps de cuisson:  120 mins
-* **Temps Total**:  2 hrs 30 mins
+* Temps de préparation: 30 mins
+* Temps de cuisson: 120 mins
+* **Temps Total**: 2 hrs 30 mins
 
 ## Ingredients:
 ### Pour l'osso buco:

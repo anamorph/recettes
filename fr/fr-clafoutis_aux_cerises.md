@@ -2,9 +2,9 @@
 
 ## Details:
 * Sert: 8 personnes
-* Temps de préparation:  20 mins
-* Temps de cuisson:  45 mins
-* **Temps Total**:  1 hrs 05 mins
+* Temps de préparation: 20 mins
+* Temps de cuisson: 45 mins
+* **Temps Total**: 1 hrs 05 mins
 
 ## Ingredients:
 * 750g de cerises bien mûres

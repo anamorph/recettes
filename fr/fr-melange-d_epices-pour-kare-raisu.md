@@ -3,8 +3,8 @@
 ## Details:
 * Les épices se conservent mieux au frigo dans un bocal; on peut raisonablement les utiliser jusqu'aà 6 mois avant que leur parfum ne se degrade.
 * En guise de règle de mesure, on utilise généralement des cuillères à soupe, à thé, à café, ce qui n'est pas vraiment précis. J'utiliserai l'équivalent suivant pour ce mélange:
-    * cuillère à soupe: 15g
-    * cuillère à thé: 6g
+	* cuillère à soupe: 15g
+	* cuillère à thé: 6g
 
 ## Ingredients:
 * 30g de Curcuma en poudre

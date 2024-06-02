@@ -34,4 +34,4 @@
 * Gastronomie Française
 * Végétarien
 * Allergènes
-    * Amandes
+	* Amandes

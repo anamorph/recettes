@@ -8,7 +8,7 @@
 * Serves: 8 people
 * Preparation time: 45 mins
 * Cooking time: 45-50 mins)
-**Total Time**: 1 hr 40 mins
+* **Total Time**: 1 hrs 40 mins
 
 ## Ingredients:
 * 1 puff pastry
@@ -23,13 +23,13 @@
 * 1 teaspoon orange blossom water
 
 ## Instructions:
-1. Preheat your oven, 180°C (350°F), rotating heat.
-1. Spread the puff pastry and place it in a tart pan; prick with a fork and sprinkle the pastry with the ground almonds. Book.
-1. Prepare the cream by whipping the eggs and sugar (crystal and vergoise), the eggs should blanch slightly.
-1. Add liquid cream and vanilla sugar and mix well. Add cinnamon and orange blossom water, mix again. Book.
-1. Peel the apples, remove the seeds and cut them into relatively thin slices, about 2-3 mm so that they are soft.
+1. Preheat your oven, 180°C (350°F), fan.
+1. Roll out the puff pastry and place it in a tart pan; prick with a fork and sprinkle the puff pastry with the ground almonds. Book.
+1. Prepare the cream by whisking the eggs and sugar (crystal and vergoise), the eggs should turn slightly white.
+1. Add the liquid cream and vanilla sugar and mix well. Add the cinnamon and orange blossom water and mix again. Book.
+1. Peel the apples, remove the seeds and cut them into strips of relatively thin thickness, about 2-3 mm so that they are tender.
 1. Line the dough with the apples and cover with the cream. Sprinkle with cinnamon.
-1. Bake for 45-50 minutes or until golden brown.
+1. Bake for 45-50 mins or until golden brown.
 1. Remove from the oven and let the tart cool. Serve plain or with a scoop of vanilla ice cream.
 
 ## Keywords

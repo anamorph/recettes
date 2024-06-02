@@ -1,10 +1,10 @@
 # Clafoutis de cereza
 
-## Detalles:
+# Detalles:
 * Sirve a: 8 personas
 * Tiempo de preparación: 20 minutos
 * Tiempo de cocción: 45 minutos
-**Tiempo total**: 1 hora y 05 minutos
+* **Tiempo total**: 1 hora y 05 minutos
 
 ## Ingredientes:
 * 750 g de cerezas maduras
@@ -19,14 +19,14 @@
 * 1/2 bolsa de polvo de hornear
 
 ## Instrucciones:
-1. Precalienta tu horno a 180 °C (350 °F), girando el fuego.
-1. Lavar y quitar los tallos de las cerezas. Libro.
-1. En un bol, bate los huevos, el azúcar y la sal durante 5 minutos.
-1. Vierta la harina y el polvo de hornear y mezcle con una espátula. 
+1. Precalienta tu horno, 180 °C (350 °F), ventilador.
+1. Lava y quita los tallos de las cerezas. Libro.
+1. En un bol, bata los huevos, el azúcar y la sal durante 5 minutos.
+1. Agrega la harina y el polvo de hornear y mezcla con una espátula. 
 1. Agregue la mantequilla derretida y la leche.
-1. Unte con mantequilla un plato para gratinar (Pyrex, por ejemplo) y coloque las cerezas en el plato. Vierte el aparato sobre las cerezas.
+1. Unte con mantequilla una cazuela (Pyrex, por ejemplo) y coloque las cerezas en la fuente. Vierte la mezcla sobre las cerezas.
 1. Hornea y cocina durante 45 minutos a 180 °C. 
-1. Retira del horno y deja que los clafoutis se enfríen. ¡Los clafoutis de cereza no se pueden quitar del molde!
+1. Retirar del horno y dejar enfriar el clafoutis. ¡Los clafoutis de cereza no se pueden desmoldar!
 
 ## Palabras clave
 * Postre

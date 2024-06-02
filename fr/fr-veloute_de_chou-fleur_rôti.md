@@ -2,9 +2,9 @@
 
 ## Details:
 * Sert: 6 personnes
-* Temps de préparation:  15 mins
-* Temps de cuisson:  60 mins
-* **Temps Total**:  1 hrs 15 mins
+* Temps de préparation: 15 mins
+* Temps de cuisson: 60 mins
+* **Temps Total**: 1 hrs 15 mins
 
 ## Ingredients:
 * 1 chou-fleur de bonne taille

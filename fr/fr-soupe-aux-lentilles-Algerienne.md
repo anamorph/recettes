@@ -1,14 +1,14 @@
 # Soupe aux lentilles algérienne (chorba aadess)
 
-> La chorba (turc : çorba), (persan : شوربا), (amharique : ሾርባ), chorwa (pachto : شوروا), churpa (russe : шурпа), chorpa (ouïghour : شورپا), chorpo (kirghize : шорпо), et sorpa (kazakh : сорпа) est une soupe traditionnelle d'Afrique du Nord, des Balkans, de l'Europe de l'Est, de l'Asie centrale, du Moyen-Orient et de l'Asie du Sud. Cette soupe à base de lentilles est généralement consommée en hiver même si on n'a pas besoin d'excuses pour la consommer tout au long de l'année. Elle fournit également de l'acide folique et le contenu en fibres alimentaires des lentilles est exceptionnel.
-
 ![Soupe aux lentilles algérienne](https://github.com/anamorph/recettes/blob/main/photos/fr-soupe-aux-lentilles-algerienne-01.jpg?raw=true)
+
+> La chorba (turc : çorba), (persan : شوربا), (amharique : ሾርባ), chorwa (pachto : شوروا), churpa (russe : шурпа), chorpa (ouïghour : شورپا), chorpo (kirghize : шорпо), et sorpa (kazakh : сорпа) est une soupe traditionnelle d'Afrique du Nord, des Balkans, de l'Europe de l'Est, de l'Asie centrale, du Moyen-Orient et de l'Asie du Sud. Cette soupe à base de lentilles est généralement consommée en hiver même si on n'a pas besoin d'excuses pour la consommer tout au long de l'année. Elle fournit également de l'acide folique et le contenu en fibres alimentaires des lentilles est exceptionnel.
 
 ## Details:
 * Sert: 4 personnes
-* Temps de préparation:  10 mins
-* Temps de cuisson:  45 mins
-* **Temps Total**:  0 hrs 55 mins
+* Temps de préparation: 10 mins
+* Temps de cuisson: 45 mins
+* **Temps Total**: 0 hrs 55 mins
 
 ## Ingredients:
 * 400 g de viande de bœuf, coupée en morceaux d'environ 3cm de coté

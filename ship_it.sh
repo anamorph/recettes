@@ -23,7 +23,7 @@
 # ----------------------------------------------------------------------------
 export dir=$(PWD)
 export recipe_checksum_file="$dir/ship_it-checksums"
-export translation_languages=(en ar es)
+export translation_languages=(en ar es hi)
 #
 # Checking if recipe checksum file exists. This file is used to keep track of
 # recipes that have been translated.

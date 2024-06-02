@@ -21,7 +21,7 @@
 * 1 pincée de sel
 * 50g de noix (optionel)
 
-##  Instructions:
+## Instructions:
 1. Faites préchauffer votre four, 180°c (350°f), chaleur tournante.
 1. Bien mélanger le tout.
 1. Verser le tout dans un moule à cake beurré (j'utilise un moule à cake classique de 28cm).
@@ -34,4 +34,4 @@
 * Gastronomie Américaine
 * Végétarien
 * Allergènes
-    * Noix
+  * Noix

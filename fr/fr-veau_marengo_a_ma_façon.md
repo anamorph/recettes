@@ -7,9 +7,9 @@
 
 ## Details:
 * Sert: 6 personnes
-* Temps de préparation:  20 mins
-* Temps de cuisson:  90 mins
-* **Temps Total**:  1 hrs 50 mins
+* Temps de préparation: 20 mins
+* Temps de cuisson: 90 mins
+* **Temps Total**: 1 hrs 50 mins
 
 ## Ingredients:
 * 1,2 kg d'épaule de veau preparée comme pour une blanquette de veau
@@ -23,7 +23,7 @@
 * 2 cuillères à soupe de vinaigre de cidre (remplace le vin blanc)
 * Sel
 * Poivre
-* eau
+* Eau
 
 ## Instructions:
 1. Épluchez les échalotes et émincez-les.
